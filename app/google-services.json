@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1057292370438",
+    "firebase_url": "https://todolabexercise.firebaseio.com",
+    "project_id": "todolabexercise",
+    "storage_bucket": "todolabexercise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057292370438:android:71d1d064cd841bd8",
+        "android_client_info": {
+          "package_name": "com.example.a1241616.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057292370438-e4r5pnrq0f4u076nf9mmr8ha7tf48ap9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaujI8bvqjrLkjmRyqwL14xjJ9y5oBPjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
