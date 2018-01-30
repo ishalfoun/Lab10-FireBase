@@ -1,4 +1,4 @@
-# todoLabExercise
+# Lab10 - Firebase
 
 
 Tutorial on firebase:
